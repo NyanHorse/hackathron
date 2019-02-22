@@ -1,0 +1,12 @@
+{
+    "name": "hackathron",
+    "version": "0.0.1",
+    "author": "NyanHorse for Codely",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.16.4",
+        "next": "^8.0.2",
+        "react-dom": "^16.8.3",
+        "webpack": "^4.29.5"
+    }
+}
